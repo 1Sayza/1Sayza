@@ -3,6 +3,10 @@
 - I'm 24 years old, i have a degree in TI and i'm currently studying Computer Networks at IFRN.
 - I'm currently learning networks programing with python. I created this github with the purpose of posting the codes that i made during the course and also projects network related.
 
+- 💻 Soft Skills: Proactive, self-taught and communicative. 
+- 📚 Studying: Database, network programming, linux system, protocolo de redes, computer vision with python and arduino system.
+
+
 <div align="center">
   <a href="https://github.com/1Sayza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1Sayza&=false&theme=radical&include_all_commits=true&count_private=true"/>
@@ -10,7 +14,11 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="sara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+  <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
+  <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" >
+  <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" >
+                   
+          
 ##
  
 <div>
