@@ -37,3 +37,15 @@
   <a href="https://www.linkedin.com/in/sara-maria-27462618a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
+<div align="center">
+<p>Total de visitas no perfil:</p>
+<p>
+<p>
+<p>
+<p>
+    <img src="https://profile-counter.glitch.me/1Sayza/count.svg"/>
+<p>
+</p>
+</div>
+
