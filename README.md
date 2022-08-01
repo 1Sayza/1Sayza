@@ -3,7 +3,7 @@
 ![imagemm](https://user-images.githubusercontent.com/99370423/182074771-f70dda77-fb70-4a06-9846-eb41837bf6c3.gif)
 
 
-🌎 I'm 25 years old, i have a degreen in TI and i`m currently studying Compute Networks at IFRN.
+🌎 I'm 25 years old, i`m currently studying Compute Networks at IFRN.
 
 💼 I`m currently learning networks programing with python. I created this github with the purpose of posting the codes that i made during the course and network related.
 
@@ -49,3 +49,17 @@
 </p>
 </div>
 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99370423/182075333-b237ff90-aea4-43b2-bfed-88601a3a9337.png" width="300px" />
+</div>
+
+<p>
+<p>
+
+<div align="center">
+<p> LET'S CODEEEEEEEEEEEEEE!!! </p>
+<p>
+<p>
+<img src="https://c.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="200px" />
+</div>
