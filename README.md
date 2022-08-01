@@ -1,5 +1,8 @@
 ## Hello, I`m Sara Maria 👋
 
+![imagemm](https://user-images.githubusercontent.com/99370423/182074771-f70dda77-fb70-4a06-9846-eb41837bf6c3.gif)
+
+
 🌎 I'm 25 years old, i have a degreen in TI and i`m currently studying Compute Networks at IFRN.
 
 💼 I`m currently learning networks programing with python. I created this github with the purpose of posting the codes that i made during the course and network related.
