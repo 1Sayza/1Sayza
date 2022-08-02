@@ -41,7 +41,7 @@
 
 <div align="center">
 <h2>Total de visitas no perfil:</h2>
-<img src="https://profile-counter.glitch.me/1Sayza/count.svg" width="250px" />
+<img src="https://profile-counter.glitch.me/1Sayza/count.svg" width="250px"/>
 </div>
 
 
