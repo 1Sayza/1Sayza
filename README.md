@@ -50,15 +50,15 @@
 </div>
 
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/99370423/182075333-b237ff90-aea4-43b2-bfed-88601a3a9337.png" width="300px" />
-</div>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/sayza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sayza" /></a></p><br><br>
 
 <p>
 <p>
 
 <div align="center">
-<p> LET'S CODEEEEEEEEEEEEEE!!! </p>
+<p> LET'S CODEEEEEEEEEEEEEE!!! </h3>
 <p>
 <p>
 <img src="https://c.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="200px" />
