@@ -9,7 +9,7 @@
 
 🖥️ Soft Skills: Proactive, self-taught and communicative. 
 
-📚 Studying: Database, network programming, linux system and network protocol.
+📚 Studying now: Shell script, docker system, html & Javascript. 
 
 <div align="center">
   <a href="https://github.com/1Sayza">
