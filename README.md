@@ -9,7 +9,7 @@
 
 🖥️ Soft Skills: Proactive, self-taught and communicative. 
 
-📚 Studying now: Shell script, docker system, html & Javascript. 
+📚 Studying now: Shell script, docker system, html, Php & dns server. 
 
 <div align="center">
   <a href="https://github.com/1Sayza">
@@ -20,7 +20,12 @@
 <p>
 <div style="display: inline_block"><br>
   <img align="center" alt="sayza-debian" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg">
-  <img align="center" alt="sayza-linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="sayza-linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+  <img align="center" alt="sayza-docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="sayza-word" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+
+
+
   <img align="center" alt="sayza-postgree" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="sayza-sql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="sayza-arduino" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
