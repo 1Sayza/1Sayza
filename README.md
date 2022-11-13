@@ -1,7 +1,5 @@
 ## Hello, I`m Sara Maria 👋
 
-![imagemm](https://user-images.githubusercontent.com/99370423/182074771-f70dda77-fb70-4a06-9846-eb41837bf6c3.gif)
-
 
 🌎 I'm 25 years old, i`m currently studying Compute Networks at IFRN.
 
