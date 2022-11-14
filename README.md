@@ -56,7 +56,7 @@
 <p>
 <p>
 <div align="center">
-<h2>LET'S CODEEEEEEEEEE!!!</h2>
-<img src="https://c.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="200px" />
+
+<img src="https://c.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="100px" />
 </div>
 
