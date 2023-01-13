@@ -9,13 +9,7 @@
 
 📚 Studying now: Shell script, docker system, html, Php & dns server. 
 
-<div align="center">
-  <a href="https://github.com/1Sayza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1Sayza&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Sayza&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-<p>
-<p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="sayza-debian" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg">
   <img align="center" alt="sayza-linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
