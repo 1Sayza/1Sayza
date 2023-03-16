@@ -56,6 +56,6 @@
   
 
   
-<img src="https://cdn-images-1.medium.com/v2/resize:fit:1400/1*qYowu9hq5jWzQWU6G8n16w.gif" width="600px" />
+<img src="https://cdn-images-1.medium.com/v2/resize:fit:1400/1*qYowu9hq5jWzQWU6G8n16w.gif" width="550px" />
 </div>
 
