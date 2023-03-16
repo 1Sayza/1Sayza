@@ -7,7 +7,7 @@
 
 🖥️ Hard Skills: Banco de dados, Arquitetura TCP/IP, Python, PHP, Docker, Introdução a Sistema Abertos, Linux, Programação para Redes, Roteamento de Redes, Comunicação de Dados, Wazuh open source, Microsoft 365, Ferramentas da FortiGate, Grafana, Zabbix e cybersecurity. 
 
-📚 Studying now: docker, ansible, kubernetes, Terraform and Zabbix. 
+📚 Studying now: Docker, Ansible, Kubernetes, Terraform and Zabbix. 
 
 
 <div style="display: inline_block"><br>
