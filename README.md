@@ -1,13 +1,13 @@
 ## Hello, I`m Sara Maria 👋
 
 
-🌎 I'm 25 years old, i`m currently studying Compute Networks at IFRN. My focus is to follow the area of DevSecOps. 
+🌎 I'm 27 years old, i`m currently studying Compute Networks at IFRN. My focus is to follow the area of DevSecOps. 
 
 🖥️ Soft Skills: Proactive, self-taught and communicative. 
 
-🖥️ Hard Skills: Banco de dados, Arquitetura TCP/IP, Python, PHP, Docker, Introdução a Sistema Abertos, Linux, Programação para Redes, Roteamento de Redes, Comunicação de Dados, Wazuh open source, Microsoft 365, Ferramentas da FortiGate, Grafana, Zabbix e cybersecurity. 
+🖥️ Hard Skills: Banco de dados, Arquitetura TCP/IP, Python, PHP, Docker, Ruby on Rails, HTML, Linux, Programação para Redes, Wazuh open source, Microsoft 365, Ferramentas da FortiGate, Grafana, Zabbix e cybersecurity. 
 
-📚 Studying now: Docker, Ansible, Kubernetes, Terraform and Zabbix. 
+📚 Studying now: Docker, Ansible, Kubernetes, SonarQube e Gitlab. 
 
 
 <div style="display: inline_block"><br>
