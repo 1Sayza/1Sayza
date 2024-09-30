@@ -5,9 +5,9 @@
 
 🖥️ Soft Skills: Proactive, self-taught and communicative. 
 
-🖥️ Hard Skills: Banco de dados, Arquitetura TCP/IP, Python, PHP, Docker, Ruby on Rails, HTML, Linux, Programação para Redes, Wazuh open source, Microsoft 365, Ferramentas da FortiGate, Grafana, Zabbix e cybersecurity. 
+🖥️ Hard Skills: Banco de dados, Arquitetura TCP/IP, Python, PHP, Docker, Linux, CI/CD, Programação para Redes, Wazuh open source, Microsoft 365, Ferramentas da FortiGate, Grafana, Zabbix, SonarQube e Ansible. 
 
-📚 Studying now: Docker, Ansible, Kubernetes, SonarQube e Gitlab. 
+📚 Studying now: AWS e Kurbenetes.
 
 
 <div style="display: inline_block"><br>
