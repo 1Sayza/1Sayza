@@ -1,9 +1,9 @@
 ## Hello, I`m Sara Maria 👋
 
 
-🌎 I'm 27 years old, i`m currently studying Compute Networks at IFRN. My focus is to follow the area of DevSecOps. 
+🌎 I'm 29 years old, My focus is to follow the area of DevSecOps. 
 
-📚 Studying now: AWS e Kurbenetes.
+📚 Studying now: AWS.
 
 
 <div style="display: inline_block"><br>
