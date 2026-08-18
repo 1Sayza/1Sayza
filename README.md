@@ -8,7 +8,7 @@
 
 ---
 
-Information Security Analyst focused on cybersecurity, DevOps, and secure infrastructure. Experience with Linux, Docker, Kubernetes, AWS, CI/CD pipelines, and automation using Python and Ansible. Passionate about cloud security, infrastructure as code, and continuous improvement of secure development and operational processes.
+Information Security Analyst focused on cybersecurity, DevOps, and secure infrastructure. Experience with Linux, Docker, AWS, CI/CD pipelines, and automation using Python and Ansible. Passionate about cloud security, infrastructure as code, and continuous improvement of secure development and operational processes.
 
 ---
 ### Como entrar em contato
